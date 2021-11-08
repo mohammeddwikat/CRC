@@ -3,14 +3,7 @@ import java.util.Random;
 import javax.swing.JOptionPane;
 import java.util.*;
 
-/*
- 
- */
 
-/**
- *
- * @author 007xDwikat
- */
 public class frame extends javax.swing.JFrame {
     String test = "";
     String test2="";
